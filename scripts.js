@@ -2495,3 +2495,10 @@
     },
     xxxe: function(t, e, n) { t.exports = n.p + "assets/images/mashup-icon.svg" }
 });
+
+// let webapi = document.getElementById("webapi");
+// let employee = document.getElementById("employee");
+// let webstyle = document.getElementById("webstyle");
+// let gameshow = document.getElementById("gameshow");
+// let onlineform = document.getElementById("onlineform");
+// let photo = document.getElementById("photo");
